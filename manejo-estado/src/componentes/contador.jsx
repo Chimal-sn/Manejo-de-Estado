@@ -16,10 +16,6 @@ function Contador() {
         }
     }
 
-    const reiniciar = () => {
-        setContador(0)
-    }
-
     return (
         <div>
             <h1>Contador</h1>
