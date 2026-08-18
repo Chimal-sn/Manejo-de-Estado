@@ -1,0 +1,15 @@
+useState
+
+
+Mostrar y ocultar texto -> Hola Mundo
+Cambiar color del fondo y texto -> Modo oscuro
+Contador con limites -> 0 10
+Semaforo 3 botones cambia el color del circulo -> Rojo Amarillo Verde
+Like publicar -> likes
+Mostrar cuantos caracteres tiene el texto que colocamos
+
+
+Juego Adivina el numero
+Numero aleatorio del 1 al 50
+El usuario escribe un numero
+muy alto muy bajo o el numero correcto
