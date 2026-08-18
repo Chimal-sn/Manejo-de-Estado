@@ -5,6 +5,7 @@ import Contador from './componentes/contador'
 import Semaforo from './componentes/semaforo'
 import Likes from './componentes/likes'
 import Caracteres from './componentes/caracteres'
+import Adivinar from './componentes/adivina'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Semaforo />
       <Likes />
       <Caracteres />
+      <Adivinar />
     </>
   )
 }
